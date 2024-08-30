@@ -1,4 +1,4 @@
-# CRUD TASKS BACKEND
+# CRUD TASKS
 
 Este proyecto es una API para la gestión de tareas, construida con Node.js, Express y MySQL. Proporciona operaciones CRUD básicas para la administración de tareas.
 
@@ -14,11 +14,11 @@ Este proyecto es una API para la gestión de tareas, construida con Node.js, Exp
 
 1. Clona este repositorio:
 
-    git clone https://github.com/Ticii18/crud-tasks-backend.git
+    git clone https://github.com/Ticii18/Tasks-Crud.git
 
 2. Navega al directorio del proyecto:
 
-    cd crud-tasks-backend
+    cd Tasks-Crud
 
 3. Instala las dependencias:
 
